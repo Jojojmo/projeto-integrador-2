@@ -1,0 +1,5 @@
+# Ignorar o diretório venv
+/.env
+
+# Ignorar o diretório __pycache__ dentro de /package
+/package/__pycache__

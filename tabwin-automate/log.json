@@ -1,0 +1,1482 @@
+[
+    {
+        "name": "DOAL2021.dbf",
+        "status": "DOAL2021.sql",
+        "date": "2024-04-07 20:24:14"
+    },
+    {
+        "name": "DOAL2022.dbf",
+        "status": "DOAL2022.sql",
+        "date": "2024-04-07 20:24:24"
+    },
+    {
+        "name": "DOAM2012.dbf",
+        "status": "DOAM2012.sql",
+        "date": "2024-04-07 20:24:34"
+    },
+    {
+        "name": "DOAM2013.dbf",
+        "status": "DOAM2013.sql",
+        "date": "2024-04-07 20:24:43"
+    },
+    {
+        "name": "DOAM2014.dbf",
+        "status": "DOAM2014.sql",
+        "date": "2024-04-07 20:24:53"
+    },
+    {
+        "name": "DOAM2015.dbf",
+        "status": "DOAM2015.sql",
+        "date": "2024-04-07 20:25:03"
+    },
+    {
+        "name": "DOAM2016.dbf",
+        "status": "DOAM2016.sql",
+        "date": "2024-04-07 20:25:13"
+    },
+    {
+        "name": "DOAM2017.dbf",
+        "status": "DOAM2017.sql",
+        "date": "2024-04-07 20:25:23"
+    },
+    {
+        "name": "DOAM2018.dbf",
+        "status": "DOAM2018.sql",
+        "date": "2024-04-07 20:25:33"
+    },
+    {
+        "name": "DOAM2019.dbf",
+        "status": "DOAM2019.sql",
+        "date": "2024-04-07 20:25:43"
+    },
+    {
+        "name": "DOAM2020.dbf",
+        "status": "DOAM2020.sql",
+        "date": "2024-04-07 20:26:10"
+    },
+    {
+        "name": "DOAM2021.dbf",
+        "status": "DOAM2021.sql",
+        "date": "2024-04-07 20:26:20"
+    },
+    {
+        "name": "DOAM2022.dbf",
+        "status": "DOAM2022.sql",
+        "date": "2024-04-07 20:26:30"
+    },
+    {
+        "name": "DOAP2012.dbf",
+        "status": "DOAP2012.sql",
+        "date": "2024-04-07 20:26:40"
+    },
+    {
+        "name": "DOAP2013.dbf",
+        "status": "DOAP2013.sql",
+        "date": "2024-04-07 20:26:50"
+    },
+    {
+        "name": "DOAP2014.dbf",
+        "status": "DOAP2014.sql",
+        "date": "2024-04-07 20:27:00"
+    },
+    {
+        "name": "DOAP2015.dbf",
+        "status": "DOAP2015.sql",
+        "date": "2024-04-07 20:27:10"
+    },
+    {
+        "name": "DOAP2016.dbf",
+        "status": "DOAP2016.sql",
+        "date": "2024-04-07 20:27:20"
+    },
+    {
+        "name": "DOAP2017.dbf",
+        "status": "DOAP2017.sql",
+        "date": "2024-04-07 20:27:30"
+    },
+    {
+        "name": "DOAP2018.dbf",
+        "status": "DOAP2018.sql",
+        "date": "2024-04-07 20:27:40"
+    },
+    {
+        "name": "DOAP2019.dbf",
+        "status": "DOAP2019.sql",
+        "date": "2024-04-07 20:28:08"
+    },
+    {
+        "name": "DOAP2020.dbf",
+        "status": "DOAP2020.sql",
+        "date": "2024-04-07 20:28:17"
+    },
+    {
+        "name": "DOAP2021.dbf",
+        "status": "DOAP2021.sql",
+        "date": "2024-04-07 20:28:27"
+    },
+    {
+        "name": "DOAP2022.dbf",
+        "status": "DOAP2022.sql",
+        "date": "2024-04-07 20:28:37"
+    },
+    {
+        "name": "DOBA2012.dbf",
+        "status": "DOBA2012.sql",
+        "date": "2024-04-07 20:28:47"
+    },
+    {
+        "name": "DOBA2013.dbf",
+        "status": "DOBA2013.sql",
+        "date": "2024-04-07 20:28:57"
+    },
+    {
+        "name": "DOBA2014.dbf",
+        "status": "DOBA2014.sql",
+        "date": "2024-04-07 20:29:07"
+    },
+    {
+        "name": "DOBA2015.dbf",
+        "status": "DOBA2015.sql",
+        "date": "2024-04-07 20:30:10"
+    },
+    {
+        "name": "DOBA2016.dbf",
+        "status": "DOBA2016.sql",
+        "date": "2024-04-07 20:30:22"
+    },
+    {
+        "name": "DOBA2017.dbf",
+        "status": "DOBA2017.sql",
+        "date": "2024-04-07 20:30:34"
+    },
+    {
+        "name": "DOBA2018.dbf",
+        "status": "DOBA2018.sql",
+        "date": "2024-04-07 20:30:45"
+    },
+    {
+        "name": "DOBA2019.dbf",
+        "status": "DOBA2019.sql",
+        "date": "2024-04-07 20:30:57"
+    },
+    {
+        "name": "DOBA2020.dbf",
+        "status": "DOBA2020.sql",
+        "date": "2024-04-07 20:31:09"
+    },
+    {
+        "name": "DOBA2021.dbf",
+        "status": "DOBA2021.sql",
+        "date": "2024-04-07 20:31:21"
+    },
+    {
+        "name": "DOBA2022.dbf",
+        "status": "DOBA2022.sql",
+        "date": "2024-04-07 20:31:33"
+    },
+    {
+        "name": "DOCE2012.dbf",
+        "status": "DOCE2012.sql",
+        "date": "2024-04-07 20:31:45"
+    },
+    {
+        "name": "DOCE2013.dbf",
+        "status": "DOCE2013.sql",
+        "date": "2024-04-07 20:31:57"
+    },
+    {
+        "name": "DOCE2014.dbf",
+        "status": "DOCE2014.sql",
+        "date": "2024-04-07 20:32:09"
+    },
+    {
+        "name": "DOCE2015.dbf",
+        "status": "DOCE2015.sql",
+        "date": "2024-04-07 20:32:21"
+    },
+    {
+        "name": "DOCE2016.dbf",
+        "status": "DOCE2016.sql",
+        "date": "2024-04-07 20:32:33"
+    },
+    {
+        "name": "DOCE2017.dbf",
+        "status": "DOCE2017.sql",
+        "date": "2024-04-07 20:32:45"
+    },
+    {
+        "name": "DOCE2018.dbf",
+        "status": "DOCE2018.sql",
+        "date": "2024-04-07 20:32:57"
+    },
+    {
+        "name": "DOCE2019.dbf",
+        "status": "DOCE2019.sql",
+        "date": "2024-04-07 20:33:29"
+    },
+    {
+        "name": "DOCE2020.dbf",
+        "status": "DOCE2020.sql",
+        "date": "2024-04-07 20:33:41"
+    },
+    {
+        "name": "DOCE2021.dbf",
+        "status": "DOCE2021.sql",
+        "date": "2024-04-07 20:33:53"
+    },
+    {
+        "name": "DOCE2022.dbf",
+        "status": "DOCE2022.sql",
+        "date": "2024-04-07 20:34:05"
+    },
+    {
+        "name": "DODF2012.dbf",
+        "status": "DODF2012.sql",
+        "date": "2024-04-07 20:34:17"
+    },
+    {
+        "name": "DODF2013.dbf",
+        "status": "DODF2013.sql",
+        "date": "2024-04-07 20:34:29"
+    },
+    {
+        "name": "DODF2014.dbf",
+        "status": "DODF2014.sql",
+        "date": "2024-04-07 20:34:41"
+    },
+    {
+        "name": "DODF2015.dbf",
+        "status": "DODF2015.sql",
+        "date": "2024-04-07 20:34:53"
+    },
+    {
+        "name": "DODF2016.dbf",
+        "status": "DODF2016.sql",
+        "date": "2024-04-07 20:35:05"
+    },
+    {
+        "name": "DODF2017.dbf",
+        "status": "DODF2017.sql",
+        "date": "2024-04-07 20:35:17"
+    },
+    {
+        "name": "DODF2018.dbf",
+        "status": "DODF2018.sql",
+        "date": "2024-04-07 20:35:29"
+    },
+    {
+        "name": "DODF2019.dbf",
+        "status": "DODF2019.sql",
+        "date": "2024-04-07 20:35:41"
+    },
+    {
+        "name": "DODF2020.dbf",
+        "status": "DODF2020.sql",
+        "date": "2024-04-07 20:35:53"
+    },
+    {
+        "name": "DODF2021.dbf",
+        "status": "DODF2021.sql",
+        "date": "2024-04-07 20:36:05"
+    },
+    {
+        "name": "DODF2022.dbf",
+        "status": "DODF2022.sql",
+        "date": "2024-04-07 20:36:17"
+    },
+    {
+        "name": "DOES2012.dbf",
+        "status": "DOES2012.sql",
+        "date": "2024-04-07 20:36:38"
+    },
+    {
+        "name": "DOES2013.dbf",
+        "status": "DOES2013.sql",
+        "date": "2024-04-07 20:36:50"
+    },
+    {
+        "name": "DOES2014.dbf",
+        "status": "DOES2014.sql",
+        "date": "2024-04-07 20:37:02"
+    },
+    {
+        "name": "DOES2015.dbf",
+        "status": "DOES2015.sql",
+        "date": "2024-04-07 20:37:14"
+    },
+    {
+        "name": "DOES2016.dbf",
+        "status": "DOES2016.sql",
+        "date": "2024-04-07 20:37:26"
+    },
+    {
+        "name": "DOES2017.dbf",
+        "status": "DOES2017.sql",
+        "date": "2024-04-07 20:37:38"
+    },
+    {
+        "name": "DOES2018.dbf",
+        "status": "DOES2018.sql",
+        "date": "2024-04-07 20:37:50"
+    },
+    {
+        "name": "DOES2019.dbf",
+        "status": "DOES2019.sql",
+        "date": "2024-04-07 20:38:02"
+    },
+    {
+        "name": "DOES2020.dbf",
+        "status": "DOES2020.sql",
+        "date": "2024-04-07 20:38:14"
+    },
+    {
+        "name": "DOES2021.dbf",
+        "status": "DOES2021.sql",
+        "date": "2024-04-07 20:38:26"
+    },
+    {
+        "name": "DOES2022.dbf",
+        "status": "DOES2022.sql",
+        "date": "2024-04-07 20:38:38"
+    },
+    {
+        "name": "DOGO2012.dbf",
+        "status": "DOGO2012.sql",
+        "date": "2024-04-07 20:38:50"
+    },
+    {
+        "name": "DOGO2013.dbf",
+        "status": "DOGO2013.sql",
+        "date": "2024-04-07 20:39:02"
+    },
+    {
+        "name": "DOGO2014.dbf",
+        "status": "DOGO2014.sql",
+        "date": "2024-04-07 20:39:13"
+    },
+    {
+        "name": "DOGO2015.dbf",
+        "status": "DOGO2015.sql",
+        "date": "2024-04-07 20:39:25"
+    },
+    {
+        "name": "DOGO2016.dbf",
+        "status": "DOGO2016.sql",
+        "date": "2024-04-07 20:39:45"
+    },
+    {
+        "name": "DOGO2017.dbf",
+        "status": "DOGO2017.sql",
+        "date": "2024-04-07 20:39:57"
+    },
+    {
+        "name": "DOGO2018.dbf",
+        "status": "DOGO2018.sql",
+        "date": "2024-04-07 20:40:09"
+    },
+    {
+        "name": "DOGO2019.dbf",
+        "status": "DOGO2019.sql",
+        "date": "2024-04-07 20:40:21"
+    },
+    {
+        "name": "DOGO2020.dbf",
+        "status": "DOGO2020.sql",
+        "date": "2024-04-07 20:40:33"
+    },
+    {
+        "name": "DOGO2021.dbf",
+        "status": "DOGO2021.sql",
+        "date": "2024-04-07 20:40:45"
+    },
+    {
+        "name": "DOGO2022.dbf",
+        "status": "DOGO2022.sql",
+        "date": "2024-04-07 20:40:57"
+    },
+    {
+        "name": "DOMA2012.dbf",
+        "status": "DOMA2012.sql",
+        "date": "2024-04-07 20:41:09"
+    },
+    {
+        "name": "DOMA2013.dbf",
+        "status": "DOMA2013.sql",
+        "date": "2024-04-07 20:41:21"
+    },
+    {
+        "name": "DOMA2014.dbf",
+        "status": "DOMA2014.sql",
+        "date": "2024-04-07 20:41:33"
+    },
+    {
+        "name": "DOMA2015.dbf",
+        "status": "DOMA2015.sql",
+        "date": "2024-04-07 20:41:45"
+    },
+    {
+        "name": "DOMA2016.dbf",
+        "status": "DOMA2016.sql",
+        "date": "2024-04-07 20:41:57"
+    },
+    {
+        "name": "DOMA2017.dbf",
+        "status": "DOMA2017.sql",
+        "date": "2024-04-07 20:42:09"
+    },
+    {
+        "name": "DOMA2018.dbf",
+        "status": "DOMA2018.sql",
+        "date": "2024-04-07 20:42:21"
+    },
+    {
+        "name": "DOMA2019.dbf",
+        "status": "DOMA2019.sql",
+        "date": "2024-04-07 20:42:32"
+    },
+    {
+        "name": "DOMA2020.dbf",
+        "status": "DOMA2020.sql",
+        "date": "2024-04-07 20:42:56"
+    },
+    {
+        "name": "DOMA2021.dbf",
+        "status": "DOMA2021.sql",
+        "date": "2024-04-07 20:43:08"
+    },
+    {
+        "name": "DOMA2022.dbf",
+        "status": "DOMA2022.sql",
+        "date": "2024-04-07 20:43:20"
+    },
+    {
+        "name": "DOMG2012.dbf",
+        "status": "DOMG2012.sql",
+        "date": "2024-04-07 20:43:32"
+    },
+    {
+        "name": "DOMG2013.dbf",
+        "status": "DOMG2013.sql",
+        "date": "2024-04-07 20:43:44"
+    },
+    {
+        "name": "[WinError 32] O arquivo j\u00e1 est\u00e1 sendo usado por outro processo: 'C:\\\\Users\\\\jmoni\\\\OneDrive\\\\\u00c1rea de Trabalho\\\\TABWIN\\\\SIM\\\\DBF\\\\DOMG2014.dbf'",
+        "status": "Ok",
+        "date": "2024-04-07 20:43:56"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOMG2014.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 20:44:07"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOMG2014.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 20:44:19"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOMG2014.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 20:44:31"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOMG2014.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 20:44:43"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOMG2014.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 20:44:55"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOMG2014.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 20:45:07"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOMG2014.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 20:45:19"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOMG2014.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 20:45:31"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOMG2014.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 20:45:43"
+    },
+    {
+        "name": "[WinError 32] O arquivo j\u00e1 est\u00e1 sendo usado por outro processo: 'C:\\\\Users\\\\jmoni\\\\OneDrive\\\\\u00c1rea de Trabalho\\\\TABWIN\\\\SIM\\\\DBF\\\\DOMG2015.dbf'",
+        "status": "Ok",
+        "date": "2024-04-07 20:47:36"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOMG2015.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 20:47:48"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOMG2015.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 20:48:00"
+    },
+    {
+        "name": "DOMG2016.dbf",
+        "status": "DOMG2016.sql",
+        "date": "2024-04-07 20:49:10"
+    },
+    {
+        "name": "DOMG2017.dbf",
+        "status": "DOMG2017.sql",
+        "date": "2024-04-07 20:49:24"
+    },
+    {
+        "name": "DOMG2018.dbf",
+        "status": "DOMG2018.sql",
+        "date": "2024-04-07 20:49:38"
+    },
+    {
+        "name": "DOMG2019.dbf",
+        "status": "DOMG2019.sql",
+        "date": "2024-04-07 20:49:52"
+    },
+    {
+        "name": "DOMG2020.dbf",
+        "status": "DOMG2020.sql",
+        "date": "2024-04-07 20:50:06"
+    },
+    {
+        "name": "[WinError 32] O arquivo j\u00e1 est\u00e1 sendo usado por outro processo: 'C:\\\\Users\\\\jmoni\\\\OneDrive\\\\\u00c1rea de Trabalho\\\\TABWIN\\\\SIM\\\\DBF\\\\DOMG2021.dbf'",
+        "status": "Ok",
+        "date": "2024-04-07 20:50:20"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOMG2021.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 20:50:34"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOMG2021.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 20:50:48"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOMG2021.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 20:51:02"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOMG2021.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 20:51:16"
+    },
+    {
+        "name": "DOMG2022.dbf",
+        "status": "DOMG2022.sql",
+        "date": "2024-04-07 20:52:17"
+    },
+    {
+        "name": "DOMS2012.dbf",
+        "status": "DOMS2012.sql",
+        "date": "2024-04-07 20:52:32"
+    },
+    {
+        "name": "DOMS2013.dbf",
+        "status": "DOMS2013.sql",
+        "date": "2024-04-07 20:52:47"
+    },
+    {
+        "name": "DOMS2014.dbf",
+        "status": "DOMS2014.sql",
+        "date": "2024-04-07 20:53:02"
+    },
+    {
+        "name": "DOMS2015.dbf",
+        "status": "DOMS2015.sql",
+        "date": "2024-04-07 20:53:17"
+    },
+    {
+        "name": "DOMS2016.dbf",
+        "status": "DOMS2016.sql",
+        "date": "2024-04-07 20:53:32"
+    },
+    {
+        "name": "DOMS2017.dbf",
+        "status": "DOMS2017.sql",
+        "date": "2024-04-07 20:53:47"
+    },
+    {
+        "name": "DOMS2018.dbf",
+        "status": "DOMS2018.sql",
+        "date": "2024-04-07 20:54:02"
+    },
+    {
+        "name": "DOMS2019.dbf",
+        "status": "DOMS2019.sql",
+        "date": "2024-04-07 20:54:16"
+    },
+    {
+        "name": "DOMS2020.dbf",
+        "status": "DOMS2020.sql",
+        "date": "2024-04-07 20:54:31"
+    },
+    {
+        "name": "DOMS2021.dbf",
+        "status": "DOMS2021.sql",
+        "date": "2024-04-07 20:54:46"
+    },
+    {
+        "name": "DOMS2022.dbf",
+        "status": "DOMS2022.sql",
+        "date": "2024-04-07 20:55:01"
+    },
+    {
+        "name": "DOMT2012.dbf",
+        "status": "DOMT2012.sql",
+        "date": "2024-04-07 20:55:16"
+    },
+    {
+        "name": "DOMT2013.dbf",
+        "status": "DOMT2013.sql",
+        "date": "2024-04-07 20:55:31"
+    },
+    {
+        "name": "DOMT2014.dbf",
+        "status": "DOMT2014.sql",
+        "date": "2024-04-07 20:55:46"
+    },
+    {
+        "name": "DOMT2015.dbf",
+        "status": "DOMT2015.sql",
+        "date": "2024-04-07 20:56:09"
+    },
+    {
+        "name": "DOMT2016.dbf",
+        "status": "DOMT2016.sql",
+        "date": "2024-04-07 20:56:24"
+    },
+    {
+        "name": "DOMT2017.dbf",
+        "status": "DOMT2017.sql",
+        "date": "2024-04-07 20:56:39"
+    },
+    {
+        "name": "DOMT2018.dbf",
+        "status": "DOMT2018.sql",
+        "date": "2024-04-07 20:56:54"
+    },
+    {
+        "name": "DOMT2019.dbf",
+        "status": "DOMT2019.sql",
+        "date": "2024-04-07 20:57:09"
+    },
+    {
+        "name": "DOMT2020.dbf",
+        "status": "DOMT2020.sql",
+        "date": "2024-04-07 20:57:24"
+    },
+    {
+        "name": "DOMT2021.dbf",
+        "status": "DOMT2021.sql",
+        "date": "2024-04-07 20:57:39"
+    },
+    {
+        "name": "DOMT2022.dbf",
+        "status": "DOMT2022.sql",
+        "date": "2024-04-07 20:57:54"
+    },
+    {
+        "name": "DOPA2012.dbf",
+        "status": "DOPA2012.sql",
+        "date": "2024-04-07 20:58:09"
+    },
+    {
+        "name": "DOPA2013.dbf",
+        "status": "DOPA2013.sql",
+        "date": "2024-04-07 20:58:24"
+    },
+    {
+        "name": "DOPA2014.dbf",
+        "status": "DOPA2014.sql",
+        "date": "2024-04-07 20:58:39"
+    },
+    {
+        "name": "DOPA2015.dbf",
+        "status": "DOPA2015.sql",
+        "date": "2024-04-07 20:58:54"
+    },
+    {
+        "name": "DOPA2016.dbf",
+        "status": "DOPA2016.sql",
+        "date": "2024-04-07 20:59:09"
+    },
+    {
+        "name": "DOPA2017.dbf",
+        "status": "DOPA2017.sql",
+        "date": "2024-04-07 20:59:24"
+    },
+    {
+        "name": "DOPA2018.dbf",
+        "status": "DOPA2018.sql",
+        "date": "2024-04-07 20:59:38"
+    },
+    {
+        "name": "DOPA2019.dbf",
+        "status": "DOPA2019.sql",
+        "date": "2024-04-07 21:00:00"
+    },
+    {
+        "name": "DOPA2020.dbf",
+        "status": "DOPA2020.sql",
+        "date": "2024-04-07 21:00:15"
+    },
+    {
+        "name": "DOPA2021.dbf",
+        "status": "DOPA2021.sql",
+        "date": "2024-04-07 21:00:30"
+    },
+    {
+        "name": "DOPA2022.dbf",
+        "status": "DOPA2022.sql",
+        "date": "2024-04-07 21:00:45"
+    },
+    {
+        "name": "DOPB2012.dbf",
+        "status": "DOPB2012.sql",
+        "date": "2024-04-07 21:01:00"
+    },
+    {
+        "name": "DOPB2013.dbf",
+        "status": "DOPB2013.sql",
+        "date": "2024-04-07 21:01:15"
+    },
+    {
+        "name": "DOPB2014.dbf",
+        "status": "DOPB2014.sql",
+        "date": "2024-04-07 21:01:30"
+    },
+    {
+        "name": "DOPB2015.dbf",
+        "status": "DOPB2015.sql",
+        "date": "2024-04-07 21:01:44"
+    },
+    {
+        "name": "DOPB2016.dbf",
+        "status": "DOPB2016.sql",
+        "date": "2024-04-07 21:01:59"
+    },
+    {
+        "name": "DOPB2017.dbf",
+        "status": "DOPB2017.sql",
+        "date": "2024-04-07 21:02:14"
+    },
+    {
+        "name": "DOPB2018.dbf",
+        "status": "DOPB2018.sql",
+        "date": "2024-04-07 21:02:29"
+    },
+    {
+        "name": "DOPB2019.dbf",
+        "status": "DOPB2019.sql",
+        "date": "2024-04-07 21:02:44"
+    },
+    {
+        "name": "DOPB2020.dbf",
+        "status": "DOPB2020.sql",
+        "date": "2024-04-07 21:02:59"
+    },
+    {
+        "name": "DOPB2021.dbf",
+        "status": "DOPB2021.sql",
+        "date": "2024-04-07 21:03:14"
+    },
+    {
+        "name": "DOPB2022.dbf",
+        "status": "DOPB2022.sql",
+        "date": "2024-04-07 21:03:29"
+    },
+    {
+        "name": "DOPE2012.dbf",
+        "status": "DOPE2012.sql",
+        "date": "2024-04-07 21:03:52"
+    },
+    {
+        "name": "DOPE2013.dbf",
+        "status": "DOPE2013.sql",
+        "date": "2024-04-07 21:04:07"
+    },
+    {
+        "name": "DOPE2014.dbf",
+        "status": "DOPE2014.sql",
+        "date": "2024-04-07 21:04:22"
+    },
+    {
+        "name": "DOPE2015.dbf",
+        "status": "DOPE2015.sql",
+        "date": "2024-04-07 21:04:37"
+    },
+    {
+        "name": "DOPE2016.dbf",
+        "status": "DOPE2016.sql",
+        "date": "2024-04-07 21:04:52"
+    },
+    {
+        "name": "DOPE2017.dbf",
+        "status": "DOPE2017.sql",
+        "date": "2024-04-07 21:05:07"
+    },
+    {
+        "name": "DOPE2018.dbf",
+        "status": "DOPE2018.sql",
+        "date": "2024-04-07 21:05:22"
+    },
+    {
+        "name": "DOPE2019.dbf",
+        "status": "DOPE2019.sql",
+        "date": "2024-04-07 21:05:37"
+    },
+    {
+        "name": "DOPE2020.dbf",
+        "status": "DOPE2020.sql",
+        "date": "2024-04-07 21:05:52"
+    },
+    {
+        "name": "DOPE2021.dbf",
+        "status": "DOPE2021.sql",
+        "date": "2024-04-07 21:06:07"
+    },
+    {
+        "name": "DOPE2022.dbf",
+        "status": "DOPE2022.sql",
+        "date": "2024-04-07 21:06:21"
+    },
+    {
+        "name": "DOPI2012.dbf",
+        "status": "DOPI2012.sql",
+        "date": "2024-04-07 21:06:36"
+    },
+    {
+        "name": "DOPI2013.dbf",
+        "status": "DOPI2013.sql",
+        "date": "2024-04-07 21:06:51"
+    },
+    {
+        "name": "DOPI2014.dbf",
+        "status": "DOPI2014.sql",
+        "date": "2024-04-07 21:07:06"
+    },
+    {
+        "name": "DOPI2015.dbf",
+        "status": "DOPI2015.sql",
+        "date": "2024-04-07 21:07:21"
+    },
+    {
+        "name": "DOPI2016.dbf",
+        "status": "DOPI2016.sql",
+        "date": "2024-04-07 21:09:26"
+    },
+    {
+        "name": "DOPI2017.dbf",
+        "status": "DOPI2017.sql",
+        "date": "2024-04-07 21:09:41"
+    },
+    {
+        "name": "DOPI2018.dbf",
+        "status": "DOPI2018.sql",
+        "date": "2024-04-07 21:09:56"
+    },
+    {
+        "name": "DOPI2019.dbf",
+        "status": "DOPI2019.sql",
+        "date": "2024-04-07 21:10:11"
+    },
+    {
+        "name": "DOPI2020.dbf",
+        "status": "DOPI2020.sql",
+        "date": "2024-04-07 21:10:26"
+    },
+    {
+        "name": "DOPI2021.dbf",
+        "status": "DOPI2021.sql",
+        "date": "2024-04-07 21:10:41"
+    },
+    {
+        "name": "DOPI2022.dbf",
+        "status": "DOPI2022.sql",
+        "date": "2024-04-07 21:10:56"
+    },
+    {
+        "name": "DOPR2012.dbf",
+        "status": "DOPR2012.sql",
+        "date": "2024-04-07 21:11:11"
+    },
+    {
+        "name": "DOPR2013.dbf",
+        "status": "DOPR2013.sql",
+        "date": "2024-04-07 21:11:26"
+    },
+    {
+        "name": "DOPR2014.dbf",
+        "status": "DOPR2014.sql",
+        "date": "2024-04-07 21:11:41"
+    },
+    {
+        "name": "DOPR2015.dbf",
+        "status": "DOPR2015.sql",
+        "date": "2024-04-07 21:11:56"
+    },
+    {
+        "name": "DOPR2016.dbf",
+        "status": "DOPR2016.sql",
+        "date": "2024-04-07 21:12:11"
+    },
+    {
+        "name": "DOPR2017.dbf",
+        "status": "DOPR2017.sql",
+        "date": "2024-04-07 21:12:26"
+    },
+    {
+        "name": "DOPR2018.dbf",
+        "status": "DOPR2018.sql",
+        "date": "2024-04-07 21:12:41"
+    },
+    {
+        "name": "DOPR2019.dbf",
+        "status": "DOPR2019.sql",
+        "date": "2024-04-07 21:12:56"
+    },
+    {
+        "name": "DOPR2020.dbf",
+        "status": "DOPR2020.sql",
+        "date": "2024-04-07 21:13:18"
+    },
+    {
+        "name": "DOPR2021.dbf",
+        "status": "DOPR2021.sql",
+        "date": "2024-04-07 21:13:33"
+    },
+    {
+        "name": "DOPR2022.dbf",
+        "status": "DOPR2022.sql",
+        "date": "2024-04-07 21:13:48"
+    },
+    {
+        "name": "DORJ2012.dbf",
+        "status": "DORJ2012.sql",
+        "date": "2024-04-07 21:14:03"
+    },
+    {
+        "name": "DORJ2013.dbf",
+        "status": "DORJ2013.sql",
+        "date": "2024-04-07 21:14:18"
+    },
+    {
+        "name": "DORJ2014.dbf",
+        "status": "DORJ2014.sql",
+        "date": "2024-04-07 21:14:33"
+    },
+    {
+        "name": "DORJ2015.dbf",
+        "status": "DORJ2015.sql",
+        "date": "2024-04-07 21:14:47"
+    },
+    {
+        "name": "DORJ2016.dbf",
+        "status": "DORJ2016.sql",
+        "date": "2024-04-07 21:15:02"
+    },
+    {
+        "name": "DORJ2017.dbf",
+        "status": "DORJ2017.sql",
+        "date": "2024-04-07 21:15:17"
+    },
+    {
+        "name": "DORJ2018.dbf",
+        "status": "DORJ2018.sql",
+        "date": "2024-04-07 21:15:32"
+    },
+    {
+        "name": "DORJ2019.dbf",
+        "status": "DORJ2019.sql",
+        "date": "2024-04-07 21:15:47"
+    },
+    {
+        "name": "[WinError 32] O arquivo j\u00e1 est\u00e1 sendo usado por outro processo: 'C:\\\\Users\\\\jmoni\\\\OneDrive\\\\\u00c1rea de Trabalho\\\\TABWIN\\\\SIM\\\\DBF\\\\DORJ2020.dbf'",
+        "status": "Ok",
+        "date": "2024-04-07 21:16:02"
+    },
+    {
+        "name": "[WinError 32] O arquivo j\u00e1 est\u00e1 sendo usado por outro processo: 'C:\\\\Users\\\\jmoni\\\\OneDrive\\\\\u00c1rea de Trabalho\\\\TABWIN\\\\SIM\\\\DBF\\\\DORJ2021.dbf'",
+        "status": "Ok",
+        "date": "2024-04-07 21:17:23"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DORJ2021.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 21:17:38"
+    },
+    {
+        "name": "DORN2012.dbf",
+        "status": "DORN2012.sql",
+        "date": "2024-04-07 21:19:27"
+    },
+    {
+        "name": "DORN2013.dbf",
+        "status": "DORN2013.sql",
+        "date": "2024-04-07 21:19:42"
+    },
+    {
+        "name": "DORN2014.dbf",
+        "status": "DORN2014.sql",
+        "date": "2024-04-07 21:19:56"
+    },
+    {
+        "name": "DORN2015.dbf",
+        "status": "DORN2015.sql",
+        "date": "2024-04-07 21:20:11"
+    },
+    {
+        "name": "DORN2016.dbf",
+        "status": "DORN2016.sql",
+        "date": "2024-04-07 21:20:26"
+    },
+    {
+        "name": "DORN2017.dbf",
+        "status": "DORN2017.sql",
+        "date": "2024-04-07 21:20:41"
+    },
+    {
+        "name": "DORN2018.dbf",
+        "status": "DORN2018.sql",
+        "date": "2024-04-07 21:20:56"
+    },
+    {
+        "name": "DORN2019.dbf",
+        "status": "DORN2019.sql",
+        "date": "2024-04-07 21:21:11"
+    },
+    {
+        "name": "DORN2020.dbf",
+        "status": "DORN2020.sql",
+        "date": "2024-04-07 21:21:26"
+    },
+    {
+        "name": "DORN2021.dbf",
+        "status": "DORN2021.sql",
+        "date": "2024-04-07 21:21:41"
+    },
+    {
+        "name": "DORN2022.dbf",
+        "status": "DORN2022.sql",
+        "date": "2024-04-07 21:21:56"
+    },
+    {
+        "name": "DORO2012.dbf",
+        "status": "DORO2012.sql",
+        "date": "2024-04-07 21:22:11"
+    },
+    {
+        "name": "DORO2013.dbf",
+        "status": "DORO2013.sql",
+        "date": "2024-04-07 21:22:26"
+    },
+    {
+        "name": "DORO2014.dbf",
+        "status": "DORO2014.sql",
+        "date": "2024-04-07 21:22:41"
+    },
+    {
+        "name": "DORO2015.dbf",
+        "status": "DORO2015.sql",
+        "date": "2024-04-07 21:22:56"
+    },
+    {
+        "name": "DORO2016.dbf",
+        "status": "DORO2016.sql",
+        "date": "2024-04-07 21:23:21"
+    },
+    {
+        "name": "DORO2017.dbf",
+        "status": "DORO2017.sql",
+        "date": "2024-04-07 21:23:36"
+    },
+    {
+        "name": "DORO2018.dbf",
+        "status": "DORO2018.sql",
+        "date": "2024-04-07 21:23:51"
+    },
+    {
+        "name": "DORO2019.dbf",
+        "status": "DORO2019.sql",
+        "date": "2024-04-07 21:24:06"
+    },
+    {
+        "name": "DORO2020.dbf",
+        "status": "DORO2020.sql",
+        "date": "2024-04-07 21:24:21"
+    },
+    {
+        "name": "DORO2021.dbf",
+        "status": "DORO2021.sql",
+        "date": "2024-04-07 21:24:36"
+    },
+    {
+        "name": "DORO2022.dbf",
+        "status": "DORO2022.sql",
+        "date": "2024-04-07 21:24:51"
+    },
+    {
+        "name": "DORR2012.dbf",
+        "status": "DORR2012.sql",
+        "date": "2024-04-07 21:25:06"
+    },
+    {
+        "name": "DORR2013.dbf",
+        "status": "DORR2013.sql",
+        "date": "2024-04-07 21:25:21"
+    },
+    {
+        "name": "DORR2014.dbf",
+        "status": "DORR2014.sql",
+        "date": "2024-04-07 21:25:36"
+    },
+    {
+        "name": "DORR2015.dbf",
+        "status": "DORR2015.sql",
+        "date": "2024-04-07 21:25:51"
+    },
+    {
+        "name": "DORR2016.dbf",
+        "status": "DORR2016.sql",
+        "date": "2024-04-07 21:26:06"
+    },
+    {
+        "name": "DORR2017.dbf",
+        "status": "DORR2017.sql",
+        "date": "2024-04-07 21:26:21"
+    },
+    {
+        "name": "DORR2018.dbf",
+        "status": "DORR2018.sql",
+        "date": "2024-04-07 21:26:36"
+    },
+    {
+        "name": "DORR2019.dbf",
+        "status": "DORR2019.sql",
+        "date": "2024-04-07 21:26:51"
+    },
+    {
+        "name": "DORR2020.dbf",
+        "status": "DORR2020.sql",
+        "date": "2024-04-07 21:27:13"
+    },
+    {
+        "name": "DORR2021.dbf",
+        "status": "DORR2021.sql",
+        "date": "2024-04-07 21:27:28"
+    },
+    {
+        "name": "DORR2022.dbf",
+        "status": "DORR2022.sql",
+        "date": "2024-04-07 21:27:43"
+    },
+    {
+        "name": "DORS2012.dbf",
+        "status": "DORS2012.sql",
+        "date": "2024-04-07 21:27:58"
+    },
+    {
+        "name": "DORS2013.dbf",
+        "status": "DORS2013.sql",
+        "date": "2024-04-07 21:28:13"
+    },
+    {
+        "name": "DORS2014.dbf",
+        "status": "DORS2014.sql",
+        "date": "2024-04-07 21:28:28"
+    },
+    {
+        "name": "DORS2015.dbf",
+        "status": "DORS2015.sql",
+        "date": "2024-04-07 21:28:43"
+    },
+    {
+        "name": "DORS2016.dbf",
+        "status": "DORS2016.sql",
+        "date": "2024-04-07 21:28:58"
+    },
+    {
+        "name": "DORS2017.dbf",
+        "status": "DORS2017.sql",
+        "date": "2024-04-07 21:29:13"
+    },
+    {
+        "name": "DORS2018.dbf",
+        "status": "DORS2018.sql",
+        "date": "2024-04-07 21:29:28"
+    },
+    {
+        "name": "DORS2019.dbf",
+        "status": "DORS2019.sql",
+        "date": "2024-04-07 21:29:43"
+    },
+    {
+        "name": "DORS2020.dbf",
+        "status": "DORS2020.sql",
+        "date": "2024-04-07 21:29:58"
+    },
+    {
+        "name": "DORS2021.dbf",
+        "status": "DORS2021.sql",
+        "date": "2024-04-07 21:30:13"
+    },
+    {
+        "name": "DORS2022.dbf",
+        "status": "DORS2022.sql",
+        "date": "2024-04-07 21:30:28"
+    },
+    {
+        "name": "DOSC2012.dbf",
+        "status": "DOSC2012.sql",
+        "date": "2024-04-07 21:30:43"
+    },
+    {
+        "name": "DOSC2013.dbf",
+        "status": "DOSC2013.sql",
+        "date": "2024-04-07 21:31:22"
+    },
+    {
+        "name": "DOSC2014.dbf",
+        "status": "DOSC2014.sql",
+        "date": "2024-04-07 21:31:37"
+    },
+    {
+        "name": "DOSC2015.dbf",
+        "status": "DOSC2015.sql",
+        "date": "2024-04-07 21:31:52"
+    },
+    {
+        "name": "DOSC2016.dbf",
+        "status": "DOSC2016.sql",
+        "date": "2024-04-07 21:32:07"
+    },
+    {
+        "name": "DOSC2017.dbf",
+        "status": "DOSC2017.sql",
+        "date": "2024-04-07 21:32:22"
+    },
+    {
+        "name": "DOSC2018.dbf",
+        "status": "DOSC2018.sql",
+        "date": "2024-04-07 21:32:36"
+    },
+    {
+        "name": "DOSC2019.dbf",
+        "status": "DOSC2019.sql",
+        "date": "2024-04-07 21:32:51"
+    },
+    {
+        "name": "DOSC2020.dbf",
+        "status": "DOSC2020.sql",
+        "date": "2024-04-07 21:33:06"
+    },
+    {
+        "name": "DOSC2021.dbf",
+        "status": "DOSC2021.sql",
+        "date": "2024-04-07 21:33:21"
+    },
+    {
+        "name": "DOSC2022.dbf",
+        "status": "DOSC2022.sql",
+        "date": "2024-04-07 21:33:36"
+    },
+    {
+        "name": "DOSE2012.dbf",
+        "status": "DOSE2012.sql",
+        "date": "2024-04-07 21:33:51"
+    },
+    {
+        "name": "DOSE2013.dbf",
+        "status": "DOSE2013.sql",
+        "date": "2024-04-07 21:34:06"
+    },
+    {
+        "name": "DOSE2014.dbf",
+        "status": "DOSE2014.sql",
+        "date": "2024-04-07 21:34:21"
+    },
+    {
+        "name": "DOSE2015.dbf",
+        "status": "DOSE2015.sql",
+        "date": "2024-04-07 21:34:36"
+    },
+    {
+        "name": "DOSE2016.dbf",
+        "status": "DOSE2016.sql",
+        "date": "2024-04-07 21:34:51"
+    },
+    {
+        "name": "DOSE2017.dbf",
+        "status": "DOSE2017.sql",
+        "date": "2024-04-07 21:35:16"
+    },
+    {
+        "name": "DOSE2018.dbf",
+        "status": "DOSE2018.sql",
+        "date": "2024-04-07 21:35:31"
+    },
+    {
+        "name": "DOSE2019.dbf",
+        "status": "DOSE2019.sql",
+        "date": "2024-04-07 21:35:46"
+    },
+    {
+        "name": "DOSE2020.dbf",
+        "status": "DOSE2020.sql",
+        "date": "2024-04-07 21:36:01"
+    },
+    {
+        "name": "DOSE2021.dbf",
+        "status": "DOSE2021.sql",
+        "date": "2024-04-07 21:36:16"
+    },
+    {
+        "name": "DOSE2022.dbf",
+        "status": "DOSE2022.sql",
+        "date": "2024-04-07 21:36:31"
+    },
+    {
+        "name": "[WinError 32] O arquivo j\u00e1 est\u00e1 sendo usado por outro processo: 'C:\\\\Users\\\\jmoni\\\\OneDrive\\\\\u00c1rea de Trabalho\\\\TABWIN\\\\SIM\\\\DBF\\\\DOSP2012.dbf'",
+        "status": "Ok",
+        "date": "2024-04-07 21:36:46"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOSP2012.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 21:37:01"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOSP2012.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 21:37:16"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOSP2012.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 21:37:31"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOSP2012.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 21:37:46"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOSP2012.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 21:38:01"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOSP2012.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 21:38:16"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOSP2012.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 21:38:30"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOSP2012.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 21:38:45"
+    },
+    {
+        "name": "[WinError 32] O arquivo j\u00e1 est\u00e1 sendo usado por outro processo: 'C:\\\\Users\\\\jmoni\\\\OneDrive\\\\\u00c1rea de Trabalho\\\\TABWIN\\\\SIM\\\\DBF\\\\DOSP2013.dbf'",
+        "status": "Ok",
+        "date": "2024-04-07 21:39:49"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOSP2013.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 21:40:06"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOSP2013.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 21:40:24"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOSP2013.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 21:40:42"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOSP2013.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 21:41:00"
+    },
+    {
+        "name": "DOTO2012.dbf",
+        "status": "DOTO2012.sql",
+        "date": "2024-04-07 21:48:58"
+    },
+    {
+        "name": "DOTO2013.dbf",
+        "status": "DOTO2013.sql",
+        "date": "2024-04-07 21:49:10"
+    },
+    {
+        "name": "DOTO2014.dbf",
+        "status": "DOTO2014.sql",
+        "date": "2024-04-07 21:49:22"
+    },
+    {
+        "name": "DOTO2015.dbf",
+        "status": "DOTO2015.sql",
+        "date": "2024-04-07 21:49:34"
+    },
+    {
+        "name": "DOTO2016.dbf",
+        "status": "DOTO2016.sql",
+        "date": "2024-04-07 21:49:46"
+    },
+    {
+        "name": "DOTO2017.dbf",
+        "status": "DOTO2017.sql",
+        "date": "2024-04-07 21:49:58"
+    },
+    {
+        "name": "DOTO2018.dbf",
+        "status": "DOTO2018.sql",
+        "date": "2024-04-07 21:50:09"
+    },
+    {
+        "name": "DOTO2019.dbf",
+        "status": "DOTO2019.sql",
+        "date": "2024-04-07 21:50:21"
+    },
+    {
+        "name": "DOTO2020.dbf",
+        "status": "DOTO2020.sql",
+        "date": "2024-04-07 21:50:33"
+    },
+    {
+        "name": "DOTO2021.dbf",
+        "status": "DOTO2021.sql",
+        "date": "2024-04-07 21:50:45"
+    },
+    {
+        "name": "DOTO2022.dbf",
+        "status": "DOTO2022.sql",
+        "date": "2024-04-07 21:50:57"
+    },
+    {
+        "name": "Destination path 'C:\\Users\\jmoni\\OneDrive\\\u00c1rea de Trabalho\\TABWIN\\SIM\\AUTOMACAO\\MAKED\\DOTO2022.dbf' already exists",
+        "status": "Ok",
+        "date": "2024-04-07 21:51:09"
+    }
+]

@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "port": 5432,
+    "database": "new_sus",
+    "user":"postgres",
+    "password":"root",
+    "client_encoding":"utf8"
+}
